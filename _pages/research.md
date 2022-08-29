@@ -15,3 +15,4 @@ Canadian Public Policy, 46(1), 45-58, 2020
 Lawley, Chad and Vincent Thivierge
 The Energy Journal, 39(2), 147-171, 2018
 [Paper](https://www.iaee.org/energyjournal/article/3056) [Appendix](https://www.iaee.org/ej/appendix/EJ392_Appendix_Lawley.pdf)
+Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)

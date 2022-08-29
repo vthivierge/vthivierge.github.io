@@ -8,7 +8,7 @@ author_profile: true
 **Working papers**
 
 
- <font size="6">**Publications** <font size>
+ <font size="6">**Publications** </font>
 
 **Carbon Pricing and Competitiveness Pressures: The Case of Cement Trade**\
 Thivierge, Vincent\

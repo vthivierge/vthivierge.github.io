@@ -10,7 +10,7 @@ redirect_from:
 
 <!--<img align="right" src="https://vthivierge.github.io/images/Vincent_Thivierge_003.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>-->
 
-![](images/calepa_og.png)
+![](images/calepa_og.jpeg)
 
 I am a PhD candidate in economics and environmental science at UC Santa Barbara. My current work explores the impacts of environmental policies covering global or local pollutants on allocative efficiency, leakage, and distributional issues.  
 

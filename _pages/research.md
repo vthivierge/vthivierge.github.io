@@ -8,12 +8,12 @@ author_profile: true
 **Working papers**
 
 
- <font size="6">**Publications** </font>
+**<font size="5">Publications</font>**
 
 **Carbon Pricing and Competitiveness Pressures: The Case of Cement Trade**\
 Thivierge, Vincent\
 Canadian Public Policy, 46(1), 45-58, 2020\
-[\[Paper\]](https://www.utpjournals.press/doi/abs/10.3138/cpp.2017-074?journalCode=cpp})
+[Paper](https://www.utpjournals.press/doi/abs/10.3138/cpp.2017-074?journalCode=cpp})
 
 **Refining the Evidence: British Columbia’s Carbon Tax and Household Gasoline Consumption**\
 Lawley, Chad and Vincent Thivierge\

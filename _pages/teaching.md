@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching assistant"
 permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching assistant**
+<!--**Teaching assistant**-->
 
 **EDS241** Environmental Policy Evaluation (Masters, Bren School, 2022) 
 

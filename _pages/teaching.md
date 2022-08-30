@@ -9,7 +9,7 @@ author_profile: true
 
 **EDS241** Environmental Policy Evaluation (Masters, Bren School, 2022) 
 
-**ESM204** Economics of Environmental Management (Masters, Bren School,2021)
+**ESM204** Economics of Environmental Management (Masters, Bren School, 2021)
 
 **ES2** Introduction to Environmental Science (Undergraduate, Environmental Studies, 2021)
 

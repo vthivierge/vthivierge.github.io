@@ -1,12 +1,17 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
-**Working papers**
+<!--**<font size="5">Work in progress</font>**-->
 
+
+**<font size="5">Working papers</font>**
+
+**Do Carbon Tariff Reduce Carbon Leakage? Evidence from Trade Tariffs**\
+Thivierge, Vincent. (2021)\
 
 **<font size="5">Publications</font>**
 
@@ -22,4 +27,8 @@ The Energy Journal, 39(2), 147-171, 2018\
 Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
 
-**Policy reports**
+**<font size="5">Select policy reports</font>**
+
+**Enhancing equity while eliminating emissions in California's supply of transportation fuels**\
+CalEPA report, 2021\
+[Paper](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o) [Appendix](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fw4qo56ozyoy344i%2FUCSB-Study2-CA-CN-Technical-Appendix.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw2BxuqjUqIF9SsZm6kfjlfJ)

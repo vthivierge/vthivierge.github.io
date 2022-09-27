@@ -7,11 +7,11 @@ author_profile: true
 
 <!--**<font size="5">Work in progress</font>**-->
 
-**<font size="5">Job market paper</font>**
+<!--**<font size="5">Job market paper</font>**
 
 **Do environmental markets improve allocative efficiency?**\
-Meng, Kyle and Vincent Thivierge. (2021)\
-[Paper]()
+Meng, Kyle and Vincent Thivierge. (2022)\
+[Paper]()-->
 
 **<font size="5">Working papers</font>**
 

@@ -15,7 +15,7 @@ Meng, Kyle and Vincent Thivierge. (2022)\
 
 **<font size="5">Working papers</font>**
 
-**Do Carbon Tariffs Reduce Carbon Leakage? Evidence from Trade Tariffs**\
+**Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
 Thivierge, Vincent. (2022)
 
 **Equitable low-carbon transition pathways for California’s oil extraction**\

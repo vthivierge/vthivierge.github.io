@@ -7,13 +7,17 @@ author_profile: true
 
 <!--**Teaching assistant**-->
 
-**EDS241** Environmental Policy Evaluation (Masters, Bren School, 2022) 
+**<font size="5">Graduate courses</font>**
 
-**ESM204** Economics of Environmental Management (Masters, Bren School, 2021)
+**EDS241** Environmental Policy Evaluation (Master of Environmental Data Science, Bren School, 2022) 
 
-**ES2** Introduction to Environmental Science (Undergraduate, Environmental Studies, 2021)
+**ESM204** Economics of Environmental Management (Master of Environmental Science & Management, Bren School, 2021)
 
-**ECON9** Principles of Economics (Undergraduate, Department of Economics, UCSB, 2019)
+**<font size="5">Undergraduate courses</font>**
 
-**ECON10A** Intermediate Microeconomics (Undergraduate, Department of Economics, UCSB, 2019)
+**ES2** Introduction to Environmental Science (Environmental Studies, UCSB, 2021)
+
+**ECON9** Principles of Economics (Department of Economics, UCSB, 2019)
+
+**ECON10A** Intermediate Microeconomics (Department of Economics, UCSB, 2019)
 

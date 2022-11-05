@@ -10,7 +10,7 @@ redirect_from:
 
 ![](images/calepa_og.jpeg)
 
-<img align="right" src="https://vthivierge.github.io/images/vincent1.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://vthivierge.github.io/images/vincent1.jpg" alt="Photo" style="width: 250px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 I am a Ph.D. candidate in economics and environmental science at UC Santa Barbara, and a <a href="https://ucigcc.org/people/#fellows">2022-2023 Dissertation Fellow</a> at the University of California Institute on Global Conflict and Cooperation. <b>I am on the 2022-2023 job market</b>. 
 

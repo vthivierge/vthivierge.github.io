@@ -20,7 +20,7 @@ Thivierge, Vincent. (2022)
 
 **Equitable low-carbon transition pathways for California’s oil extraction**\
 with emLab. (2022)\
-Revise-and-Resubmit at Nature Energy
+Revise-and-Resubmit at <b><i>Nature Energy</b></i>
 
 **<font size="5">Publications</font>**
 

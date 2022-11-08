@@ -11,7 +11,7 @@ author_profile: true
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
 Meng, Kyle and Vincent Thivierge. (2022)\
-[Paper]()
+[Paper](https://vthivierge.github.io/files/efficiency.pdf)
 
 **<font size="5">Working papers</font>**
 

@@ -45,7 +45,7 @@ with emLab, 2021\
 **Through the Roof: The High Cost of Barriers to Building New Housing in Canadian Municipalities**\
 Dachis, Benjamin and Vincent Thivierge\
 C.D. Howe Institute Commentary 513, 2018\
-[Paper](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)\
+[Paper](https://www.cdhowe.org/sites/default/files/2021-12/Friday%20Commentary_513.pdf)\
 Media: [Vancouver Sun](https://vancouversun.com/news/local-news/development-costs-and-regulations-driving-up-home-prices-in-vancouver) [Global News](https://globalnews.ca/news/4208533/vancouver-detached-home-building-costs/)\
 op-ed: [The Globe and Mail](https://www.theglobeandmail.com/business/commentary/article-curbs-on-demand-wont-solve-surging-house-prices-in-canada/)
 

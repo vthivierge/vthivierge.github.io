@@ -19,8 +19,8 @@ Meng, Kyle and Vincent Thivierge. (2022)\
 Thivierge, Vincent. (2022)
 
 **Equitable low-carbon transition pathways for California’s oil extraction**\
-with emLab. (2022)\
-Revise-and-Resubmit at Nature Energy
+with emLab. (2023)\
+Accepted at Nature Energy
 
 **<font size="5">Publications</font>**
 

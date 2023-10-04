@@ -5,24 +5,25 @@ permalink: /research/
 author_profile: true
 ---
 
-<!--**<font size="5">Work in progress</font>**-->
+<!--**<font size="5">Work in progress</font>**
 
-**<font size="5">Job market paper</font>**
-
-**Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
-Meng, Kyle and Vincent Thivierge. (2022)\
-[Paper](https://vthivierge.github.io/files/efficiency.pdf)
+**<font size="5">Job market paper</font>**-->
 
 **<font size="5">Working papers</font>**
 
-**Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
-Thivierge, Vincent. (2022)
+**Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
+Meng, Kyle and Vincent Thivierge. (2023)\
+[Paper](https://vthivierge.github.io/files/efficiency.pdf)
 
-**Equitable low-carbon transition pathways for California’s oil extraction**\
-with emLab. (2023)\
-Accepted at Nature Energy
+**Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
+Thivierge, Vincent. (2023)
 
 **<font size="5">Publications</font>**
+
+**Equitable low-carbon transition pathways for California’s oil extraction**\
+with emLab\
+Nature Energy, 1-13, 2023\
+[Paper](https://www.nature.com/articles/s41560-023-01259-y)
 
 **Carbon pricing and competitiveness pressures: The case of cement trade**\
 Thivierge, Vincent\

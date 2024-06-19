@@ -16,7 +16,8 @@ Meng, Kyle and Vincent Thivierge. (2023)\
 [Paper](https://vthivierge.github.io/files/efficiency.pdf)
 
 **Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
-Thivierge, Vincent. Revise and resubmit at Journal of Environmental Economics and Management. 
+Thivierge, Vincent.\
+Revise and resubmit at Journal of Environmental Economics and Management.\ 
 [Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
 
 **<font size="5">Publications</font>**

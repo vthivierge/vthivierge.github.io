@@ -13,7 +13,7 @@ author_profile: true
 
 **Health, labor, and equity in the low carbon transition of California's petroleum refineries**\
 Meng, M., Hernandez-Cortes, D., Malloy, C., Mangin, T., Thivierge, V., Deshmukh, R., Weber, P., Deschenes, O., Lea, D. W. & Meng, K. C.\
-Revise and resubmit at Nature Communications.\
+Revise and resubmit at Nature Communications.
 
 **Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
 Thivierge, Vincent.\

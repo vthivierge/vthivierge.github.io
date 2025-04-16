@@ -21,10 +21,16 @@ Revise and resubmit at Journal of Environmental Economics and Management.\
 [Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
-Meng, Kyle and Vincent Thivierge. (2023)\
+Meng, Kyle and Vincent Thivierge. (2025)\
 [Paper](https://vthivierge.github.io/files/efficiency.pdf)
 
 **<font size="5">Publications</font>**
+
+
+**Finance and green growth: A comment on De Haas and Popov (2023)**\
+Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
+The Economic Journal, 135(667), 1021-1023, 2025\
+[Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
 
 **Equitable low-carbon transition pathways for California’s oil extraction**\
 with emLab\

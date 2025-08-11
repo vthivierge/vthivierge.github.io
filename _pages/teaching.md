@@ -9,7 +9,7 @@ author_profile: true
 
 **<font size="5">University of Ottawa</font>**
 
-**ECO6161** Economics of the Environment (Department of Economics) 
+**ECO6151** Economics of the Environment (Department of Economics) 
 
 **EVD5122** Foundation of Environmental Economics (Master’s of Environmental Sustainability) 
 

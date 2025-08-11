@@ -11,14 +11,14 @@ author_profile: true
 
 **<font size="5">Working papers</font>**
 
+**Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
+Thivierge, Vincent.\
+Accepted at Journal of Environmental Economics and Management.\
+[Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
+
 **Health, labor, and equity in the low carbon transition of California's petroleum refineries**\
 Meng, M., Hernandez-Cortes, D., Malloy, C., Mangin, T., Thivierge, V., Deshmukh, R., Weber, P., Deschenes, O., Lea, D. W. & Meng, K. C.\
 Revise and resubmit at Nature Communications.
-
-**Do carbon tariffs reduce carbon leakage? Evidence from trade tariffs**\
-Thivierge, Vincent.\
-Revise and resubmit at Journal of Environmental Economics and Management.\
-[Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
 Meng, Kyle and Vincent Thivierge. (2025)\

@@ -22,7 +22,7 @@ Revise and resubmit at Nature Communications.
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
 Meng, Kyle and Vincent Thivierge. (2025)\
-[Paper](https://vthivierge.github.io/files/efficiency.pdf)[NBER WP](https://www.nber.org/papers/w34111)
+[Paper](https://vthivierge.github.io/files/efficiency.pdf) [NBER WP](https://www.nber.org/papers/w34111)
 
 **<font size="5">Publications</font>**
 

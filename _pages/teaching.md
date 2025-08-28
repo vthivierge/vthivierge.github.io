@@ -11,7 +11,7 @@ author_profile: true
 
 **ECO6151** Economics of the Environment (Department of Economics) 
 
-**EVD5122** Foundations of Environmental Economics (Master’s of Environmental Sustainability) 
+**EVD5122** Foundations of Environmental Economics (Master’s of Environmental Sustainability, Institute of the Environment) 
 
 <!--**<font size="5">Undergraduate courses</font>**
 

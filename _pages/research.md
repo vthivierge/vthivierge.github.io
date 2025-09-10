@@ -51,6 +51,10 @@ Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
 **<font size="5">Select policy reports</font>**
 
+**Trading Up: Ideas to improve Quebec’s capand-trade system**\
+with Pierre-Olivier Pineau and Clean Prosperity, 2025\
+[Paper](https://cleanprosperity.ca/wp-content/uploads/2025/06/Trading_Up_Ideas_to_improve_Quebecs_cap-and-trade_system.pdf) 
+
 **Enhancing equity while eliminating emissions in California's supply of transportation fuels**\
 with emLab, 2021\
 [Paper](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o) [Appendix](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fw4qo56ozyoy344i%2FUCSB-Study2-CA-CN-Technical-Appendix.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw2BxuqjUqIF9SsZm6kfjlfJ)

@@ -11,11 +11,6 @@ author_profile: true
 
 **<font size="5">Working papers</font>**
 
-**Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
-Thivierge, Vincent.\
-Accepted at Journal of Environmental Economics and Management.\
-[Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
-
 **Health, labor, and equity in the low carbon transition of California's petroleum refineries**\
 Meng, M., Hernandez-Cortes, D., Malloy, C., Mangin, T., Thivierge, V., Deshmukh, R., Weber, P., Deschenes, O., Lea, D. W. & Meng, K. C.\
 Revise and resubmit at Nature Communications.
@@ -26,6 +21,10 @@ Meng, Kyle and Vincent Thivierge. (2025)\
 
 **<font size="5">Publications</font>**
 
+**Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
+Thivierge, Vincent.\
+Journal of Environmental Economics and Management, 103220, 2025\
+[Paper](https://www.sciencedirect.com/science/article/pii/S0095069625001044)
 
 **Finance and green growth: A comment on De Haas and Popov (2023)**\
 Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
@@ -51,7 +50,7 @@ Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
 **<font size="5">Select policy reports</font>**
 
-**Trading Up: Ideas to improve Quebec’s capand-trade system**\
+**Trading Up: Ideas to improve Quebec’s cap-and-trade system**\
 with Pierre-Olivier Pineau and Clean Prosperity, 2025\
 [Paper](https://cleanprosperity.ca/wp-content/uploads/2025/06/Trading_Up_Ideas_to_improve_Quebecs_cap-and-trade_system.pdf) 
 

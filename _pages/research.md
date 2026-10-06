@@ -16,7 +16,7 @@ Meng, M., Hernandez-Cortes, D., Malloy, C., Mangin, T., Thivierge, V., Deshmukh,
 Under review.
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
-Meng, Kyle and Vincent Thivierge. (2025)\
+Meng, Kyle C., Vincent Thivierge, and Minwoo Hyun  (2026)\
 [Paper](https://vthivierge.github.io/files/efficiency.pdf) [NBER WP](https://www.nber.org/papers/w34111)
 
 **<font size="5">Publications</font>**
@@ -44,7 +44,7 @@ Canadian Public Policy, 46(1), 45-58, 2020\
 **Refining the evidence: British Columbia’s carbon tax and household gasoline consumption**\
 Lawley, Chad and Vincent Thivierge\
 The Energy Journal, 39(2), 147-171, 2018\
-[Paper](https://www.iaee.org/energyjournal/article/3056) [Appendix](https://www.iaee.org/ej/appendix/EJ392_Appendix_Lawley.pdf)\
+[Paper](http://journals.sagepub.com/doi/10.5547/01956574.39.2.claw) \
 Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
 

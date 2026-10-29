@@ -23,7 +23,7 @@ Meng, Kyle C., Vincent Thivierge, and Minwoo Hyun  (2026)\
 
 **Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
 Thivierge, Vincent.\
-Journal of Environmental Economics and Management, 103220, 2025\
+Journal of Environmental Economics and Management, 34, 103220, 2025\
 [Paper](https://www.sciencedirect.com/science/article/pii/S0095069625001044)
 
 **Well setbacks limit California's oil supply with larger health benefits and employment losses than excise and carbon taxes**\

@@ -56,7 +56,8 @@ Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 **<font size="5">Select policy reports</font>**
 
 **The Energy Transition and Public Finances in Oil Refining Communities**\
-with Christopher Malloy, October 2026\
+with Christopher Malloy\
+Resilient Energy Economies Policy Brief, October 2026\
 [Paper](https://cdn.prod.website-files.com/65f9f863036e7bbd0fc012f9/6ad64f26e515171b73707d20_REE%20Policy%20Brief%20-%20Malloy%20Public%20Finances%201.pdf) 
 
 **Trading Up: Ideas to improve Quebec’s cap-and-trade system**\

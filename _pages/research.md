@@ -31,9 +31,14 @@ Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
 The Economic Journal, 135(667), 1021-1023, 2025\
 [Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
 
+**Well setbacks limit California's oil supply with larger health benefits and employment losses than excise and carbon taxes**\
+with Ranjit Deshmukh, Paige Weber, Olivier Deschênes, David Lea, Kyle Meng, Danae Hernandez Cortes, Tia Kordell, Ruiwen Lee, Christopher Malloy, Tracey Mangin, Measrainsey Meng, Sandy Sum, and Anagha Uppal\
+Nature Energy, 8, 562–564, 2023\
+[Paper](https://www.nature.com/articles/s41560-023-01273-0)
+
 **Equitable low-carbon transition pathways for California’s oil extraction**\
-with emLab\
-Nature Energy, 1-13, 2023\
+with Ranjit Deshmukh, Paige Weber, Olivier Deschênes, David Lea, Kyle Meng, Danae Hernandez Cortes, Tia Kordell, Ruiwen Lee, Christopher Malloy, Tracey Mangin, Measrainsey Meng, Sandy Sum, and Anagha Uppal\
+Nature Energy, 8, 597–609, 2023\
 [Paper](https://www.nature.com/articles/s41560-023-01259-y)
 
 **Carbon pricing and competitiveness pressures: The case of cement trade**\

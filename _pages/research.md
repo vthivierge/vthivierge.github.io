@@ -19,17 +19,12 @@ Under review.
 Meng, Kyle C., Vincent Thivierge, and Minwoo Hyun  (2026)\
 [Paper](https://vthivierge.github.io/files/efficiency.pdf) [NBER WP](https://www.nber.org/papers/w34111)
 
-**<font size="5">Publications</font>**
+**<font size="5">Refereed publications</font>**
 
 **Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
 Thivierge, Vincent.\
 Journal of Environmental Economics and Management, 103220, 2025\
 [Paper](https://www.sciencedirect.com/science/article/pii/S0095069625001044)
-
-**Finance and green growth: A comment on De Haas and Popov (2023)**\
-Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
-The Economic Journal, 135(667), 1021-1023, 2025\
-[Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
 
 **Well setbacks limit California's oil supply with larger health benefits and employment losses than excise and carbon taxes**\
 with Ranjit Deshmukh, Paige Weber, Olivier Deschênes, David Lea, Kyle Meng, Danae Hernandez Cortes, Tia Kordell, Ruiwen Lee, Christopher Malloy, Tracey Mangin, Measrainsey Meng, Sandy Sum, and Anagha Uppal\
@@ -52,6 +47,18 @@ The Energy Journal, 39(2), 147-171, 2018\
 [Paper](http://journals.sagepub.com/doi/10.5547/01956574.39.2.claw) \
 Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
+
+**<font size="5">Other refereed publications</font>**
+
+**Reproducibility and robustness of economics and political science research**\
+with Abel Brodeur,Derek Mikola, Nikolai Cook, and 343 other co-authors \
+Nature, 652, 151-156, 2026\
+[Paper](https://www.nature.com/articles/s41586-026-10251-x)
+
+**Finance and green growth: A comment on De Haas and Popov (2023)**\
+Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
+The Economic Journal, 135(667), 1021-1023, 2025\
+[Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
 
 **<font size="5">Select policy reports</font>**
 

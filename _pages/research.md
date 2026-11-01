@@ -11,30 +11,29 @@ author_profile: true
 
 **<font size="5">Working papers</font>**
 
-**Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
-Thivierge, Vincent.\
-Accepted at Journal of Environmental Economics and Management.\
-[Paper](https://vthivierge.github.io/files/carbon_tariff.pdf)
-
 **Health, labor, and equity in the low carbon transition of California's petroleum refineries**\
 Meng, M., Hernandez-Cortes, D., Malloy, C., Mangin, T., Thivierge, V., Deshmukh, R., Weber, P., Deschenes, O., Lea, D. W. & Meng, K. C.\
-Revise and resubmit at Nature Communications.
+Under review.
 
 **Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution**\
-Meng, Kyle and Vincent Thivierge. (2025)\
+Meng, Kyle C., Vincent Thivierge, and Minwoo Hyun  (2026)\
 [Paper](https://vthivierge.github.io/files/efficiency.pdf) [NBER WP](https://www.nber.org/papers/w34111)
 
-**<font size="5">Publications</font>**
+**<font size="5">Refereed publications</font>**
 
+**Downstream carbon leakage from upstream carbon tariffs: Evidence from trade tariffs**\
+Thivierge, Vincent.\
+Journal of Environmental Economics and Management, 34, 103220, 2025\
+[Paper](https://www.sciencedirect.com/science/article/pii/S0095069625001044)
 
-**Finance and green growth: A comment on De Haas and Popov (2023)**\
-Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
-The Economic Journal, 135(667), 1021-1023, 2025\
-[Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
+**Well setbacks limit California's oil supply with larger health benefits and employment losses than excise and carbon taxes**\
+with Ranjit Deshmukh, Paige Weber, Olivier Deschênes, David Lea, Kyle Meng, Danae Hernandez Cortes, Tia Kordell, Ruiwen Lee, Christopher Malloy, Tracey Mangin, Measrainsey Meng, Sandy Sum, and Anagha Uppal\
+Nature Energy, 8, 562–564, 2023\
+[Paper](https://www.nature.com/articles/s41560-023-01273-0)
 
 **Equitable low-carbon transition pathways for California’s oil extraction**\
-with emLab\
-Nature Energy, 1-13, 2023\
+with Ranjit Deshmukh, Paige Weber, Olivier Deschênes, David Lea, Kyle Meng, Danae Hernandez Cortes, Tia Kordell, Ruiwen Lee, Christopher Malloy, Tracey Mangin, Measrainsey Meng, Sandy Sum, and Anagha Uppal\
+Nature Energy, 8, 597–609, 2023\
 [Paper](https://www.nature.com/articles/s41560-023-01259-y)
 
 **Carbon pricing and competitiveness pressures: The case of cement trade**\
@@ -45,11 +44,32 @@ Canadian Public Policy, 46(1), 45-58, 2020\
 **Refining the evidence: British Columbia’s carbon tax and household gasoline consumption**\
 Lawley, Chad and Vincent Thivierge\
 The Energy Journal, 39(2), 147-171, 2018\
-[Paper](https://www.iaee.org/energyjournal/article/3056) [Appendix](https://www.iaee.org/ej/appendix/EJ392_Appendix_Lawley.pdf)\
+[Paper](http://journals.sagepub.com/doi/10.5547/01956574.39.2.claw) \
 Media: [The Narwhal](https://thenarwhal.ca/gas-tax-ontario-alberta/)
 
 
+**<font size="5">Other refereed publications</font>**
+
+**Reproducibility and robustness of economics and political science research**\
+with Abel Brodeur,Derek Mikola, Nikolai Cook, and 343 other co-authors \
+Nature, 652, 151-156, 2026\
+[Paper](https://www.nature.com/articles/s41586-026-10251-x)
+
+**Finance and green growth: A comment on De Haas and Popov (2023)**\
+Listo, Ariel, Soodeh Saberian, and Vincent Thivierge\
+The Economic Journal, 135(667), 1021-1023, 2025\
+[Paper](https://academic.oup.com/ej/article/135/667/1021/7978278)
+
 **<font size="5">Select policy reports</font>**
+
+**The Energy Transition and Public Finances in Oil Refining Communities**\
+with Christopher Malloy\
+Resilient Energy Economies Policy Brief, October 2026\
+[Paper](https://cdn.prod.website-files.com/65f9f863036e7bbd0fc012f9/6ad64f26e515171b73707d20_REE%20Policy%20Brief%20-%20Malloy%20Public%20Finances%201.pdf) 
+
+**Trading Up: Ideas to improve Quebec’s cap-and-trade system**\
+with Pierre-Olivier Pineau and Clean Prosperity, 2025\
+[Paper](https://cleanprosperity.ca/wp-content/uploads/2025/06/Trading_Up_Ideas_to_improve_Quebecs_cap-and-trade_system.pdf) 
 
 **Enhancing equity while eliminating emissions in California's supply of transportation fuels**\
 with emLab, 2021\

@@ -13,9 +13,7 @@ redirect_from:
 
 <img align="right" src="https://vthivierge.github.io/images/vincent1.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
-I am an environmental economics researcher studying climate, and air pollution policies. I am currently an Assistant Professor in the University of Ottawa's Department of Economics, and Institute of the Environment. I was previously a S.V. Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley.
-
-I study the efficiency, effectiveness, and equity consequences of environmental policies to cut global and local air pollutants. Ongoing projects examine the allocative efficiency changes of air pollution cap-and-trade markets, the effectiveness of carbon tariffs in reducing carbon leakage, and the air pollution and health effects of decarbonization pathways in the oil and gas sector. 
+I am an environmental economics researcher studying climate, and air pollution policies. I am currently an Assistant Professor in the University of Ottawa's Department of Economics, and Institute of the Environment. I was previously a S.V. Ciriacy-Wantrup Postdoctoral Fellow at UC Berkeley. I study the efficiency, effectiveness, and equity consequences of environmental policies to cut global and local air pollutants. <!--Ongoing projects examine the allocative efficiency changes of air pollution cap-and-trade markets, the effectiveness of carbon tariffs in reducing carbon leakage, and the air pollution and health effects of decarbonization pathways in the oil and gas sector. -->
 
 <!--My [job market paper](https://vthivierge.github.io/files/efficiency.pdf) develops an empirical framework for estimating the allocative efficiency changes of environmental markets, and applies it to landmark U.S. air pollution cap-and-trade markets.
 

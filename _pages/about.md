@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![](images/calepa_og.jpeg)
+![](images/pb1.PNG)
+<!--![](images/calepa_og.jpeg)-->
 
 <img align="right" src="https://vthivierge.github.io/images/vincent1.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 

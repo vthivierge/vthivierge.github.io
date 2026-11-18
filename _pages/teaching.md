@@ -13,7 +13,7 @@ author_profile: true
 
 **EVD5122** Foundations of Environmental Economics (Master’s of Environmental Sustainability, Institute of the Environment) 
 
-**EVD*8901** Research Design and Methods for Environmental Sustainability (PhD and Master’s of Environmental Sustainability, Institute of the Environment) 
+**EVD8901** Research Design and Methods for Environmental Sustainability (PhD and Master’s of Environmental Sustainability, Institute of the Environment) 
 
 <!--**<font size="5">Undergraduate courses</font>**
 
